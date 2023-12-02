@@ -1,3 +1,4 @@
 add and remove users
 can change the account settinggit 
 manage db
+closing connection
