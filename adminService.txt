@@ -1,2 +1,3 @@
 add and remove users
-can change the account setting
+can change the account settinggit 
+manage db
