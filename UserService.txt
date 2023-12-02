@@ -3,3 +3,4 @@ processing the data
 adding feature after creating new branch
 login/logout
 chnage1
+getting stashgit 
